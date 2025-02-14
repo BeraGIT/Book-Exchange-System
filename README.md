@@ -109,7 +109,7 @@
     dotnet restore
     ```
 
-**4. İlk Migration’ı oluşturun (hata bulunmazsa) / Create the initial migration (if no errors):**
+**4. İlk Migration’ı oluşturun / Create the initial migration (if no errors):**
     ```shell
     dotnet ef migrations add InitialMigration --project .\DAL\DAL.csproj --startup-project .\API\API.csproj
     ```

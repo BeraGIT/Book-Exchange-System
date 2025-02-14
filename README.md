@@ -95,11 +95,9 @@
    - Books in listing and offer status are temporarily locked.
 
 ## 🚀 Kurulum & Çalıştırma / Setup & Running
-**Türkçe:**
-1. **API Katmanında appsettings.json'daki "MyConnection" bağlantı ayarlarını kendi veri tabanı ayarlarınıza göre güncelleyin.**
 
-**English:**
-1. **Update the "MyConnection" connection string in appsettings.json within the API layer to match your database settings.**
+**1. API Katmanında appsettings.json'daki "MyConnection" bağlantı ayarlarını kendi veri tabanı ayarlarınıza göre güncelleyin / Update the "MyConnection" connection string in appsettings.json within the API layer to match your database settings.**
+
 
 **2. Proje dizinine gidin / Navigate to the project directory:**
     ```shell

@@ -1,0 +1,647 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\context\\mycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\configs\\baseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\configs\\baseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\models\\faculty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\enums\\bookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\enums\\bookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\bll\\managerservices\\concretes\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|solutionrelative:bll\\managerservices\\concretes\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\controllers\\listingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\controllers\\listingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\controllers\\logoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\controllers\\offercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\configs\\listingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\configs\\listingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\configs\\facultyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\configs\\facultyconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\enums\\offerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\enums\\offerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\bll\\managerservices\\concretes\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|solutionrelative:bll\\managerservices\\concretes\\basemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\configs\\offerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\configs\\offerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\bll\\managerservices\\concretes\\userprofilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|solutionrelative:bll\\managerservices\\concretes\\userprofilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\repos\\concretes\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\concretes\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\models\\offers\\requestmodels\\offerdecisionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\models\\offers\\requestmodels\\offerdecisionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\models\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\repos\\concretes\\offerrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\concretes\\offerrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\configs\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\configs\\bookconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\models\\books\\responsemodels\\bookresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\models\\books\\responsemodels\\bookresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\enums\\datastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\enums\\datastatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\enums\\listingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\enums\\listingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\configs\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\configs\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\dal\\configs\\userprofileconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C84CFB-B1FA-4DDB-B23A-3848E76720B4}|DAL\\DAL.csproj|solutionrelative:dal\\configs\\userprofileconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\models\\listings\\responsemodels\\listingresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\models\\listings\\responsemodels\\listingresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\bll\\managerservices\\concretes\\listingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|solutionrelative:bll\\managerservices\\concretes\\listingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\bll\\managerservices\\concretes\\offermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177CC29A-485D-4BEA-8CF7-627560D8DDAE}|BLL\\BLL.csproj|solutionrelative:bll\\managerservices\\concretes\\offermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\entities\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B73F4B-CC16-4C8B-993C-92FE86430563}|ENTITIES\\ENTITIES.csproj|solutionrelative:entities\\models\\listing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|c:\\users\\main\\desktop\\zbkitapdegisim\\api\\models\\books\\requestmodels\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A3C5E3-BF98-4794-9950-C333D10B8100}|API\\API.csproj|solutionrelative:api\\models\\books\\requestmodels\\createbookrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-08T16:11:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "ENTITIES\\Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:19:31.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T02:18:40.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\BookManager.cs",
+              "RelativeDocumentMoniker": "BLL\\ManagerServices\\Concretes\\BookManager.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\BookManager.cs",
+              "RelativeToolTip": "BLL\\ManagerServices\\Concretes\\BookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:39:02.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\BookController.cs",
+              "RelativeToolTip": "API\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:06:09.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:49:43.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Enums\\BookStatus.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Enums\\BookStatus.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Enums\\BookStatus.cs",
+              "RelativeToolTip": "ENTITIES\\Enums\\BookStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:33:52.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\Book.cs",
+              "RelativeToolTip": "ENTITIES\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:19:26.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\LogoutController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LogoutController.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\LogoutController.cs",
+              "RelativeToolTip": "API\\Controllers\\LogoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:11:48.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Context\\MyContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Context\\MyContext.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Context\\MyContext.cs",
+              "RelativeToolTip": "DAL\\Context\\MyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:42:57.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "ENTITIES\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:24:11.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\BaseConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\Configs\\BaseConfig.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\BaseConfig.cs",
+              "RelativeToolTip": "DAL\\Configs\\BaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:42:51.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Faculty.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\Faculty.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Models\\Faculty.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\Faculty.cs",
+              "RelativeToolTip": "ENTITIES\\Models\\Faculty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:19:38.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserProfileManager.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\UserProfileManager.cs",
+              "RelativeDocumentMoniker": "BLL\\ManagerServices\\Concretes\\UserProfileManager.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\UserProfileManager.cs",
+              "RelativeToolTip": "BLL\\ManagerServices\\Concretes\\UserProfileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T03:14:28.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListingController.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\ListingController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ListingController.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\ListingController.cs",
+              "RelativeToolTip": "API\\Controllers\\ListingController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwHoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:41:06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OfferController.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\OfferController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OfferController.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\OfferController.cs",
+              "RelativeToolTip": "API\\Controllers\\OfferController.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAqwEsBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T21:36:15.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "API\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T03:11:12.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAiwAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T02:08:59.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OfferDecisionModel.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Models\\Offers\\RequestModels\\OfferDecisionModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Offers\\RequestModels\\OfferDecisionModel.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Models\\Offers\\RequestModels\\OfferDecisionModel.cs",
+              "RelativeToolTip": "API\\Models\\Offers\\RequestModels\\OfferDecisionModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:42:32.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\Offer.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Models\\Offer.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\Offer.cs",
+              "RelativeToolTip": "ENTITIES\\Models\\Offer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:23:39.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ListingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\ListingConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\Configs\\ListingConfig.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\ListingConfig.cs",
+              "RelativeToolTip": "DAL\\Configs\\ListingConfig.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:48:11.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OfferConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\OfferConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\Configs\\OfferConfig.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\OfferConfig.cs",
+              "RelativeToolTip": "DAL\\Configs\\OfferConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:48:54.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FacultyConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\FacultyConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\Configs\\FacultyConfig.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\FacultyConfig.cs",
+              "RelativeToolTip": "DAL\\Configs\\FacultyConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:48:58.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\BaseManager.cs",
+              "RelativeDocumentMoniker": "BLL\\ManagerServices\\Concretes\\BaseManager.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\BaseManager.cs",
+              "RelativeToolTip": "BLL\\ManagerServices\\Concretes\\BaseManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:38:47.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OfferStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Enums\\OfferStatus.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Enums\\OfferStatus.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Enums\\OfferStatus.cs",
+              "RelativeToolTip": "ENTITIES\\Enums\\OfferStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:48:21.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BookConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\BookConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\Configs\\BookConfig.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\BookConfig.cs",
+              "RelativeToolTip": "DAL\\Configs\\BookConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:42:53.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Repos\\Concretes\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Concretes\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Repos\\Concretes\\BaseRepository.cs",
+              "RelativeToolTip": "DAL\\Repos\\Concretes\\BaseRepository.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAxwIkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:34:17.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OfferRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Repos\\Concretes\\OfferRepos.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Concretes\\OfferRepos.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Repos\\Concretes\\OfferRepos.cs",
+              "RelativeToolTip": "DAL\\Repos\\Concretes\\OfferRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T00:53:23.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Enums\\DataStatus.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Enums\\DataStatus.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Enums\\DataStatus.cs",
+              "RelativeToolTip": "ENTITIES\\Enums\\DataStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:32:58.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BookResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Models\\Books\\ResponseModels\\BookResponseModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Books\\ResponseModels\\BookResponseModel.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Models\\Books\\ResponseModels\\BookResponseModel.cs",
+              "RelativeToolTip": "API\\Models\\Books\\ResponseModels\\BookResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T01:03:54.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ListingStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Enums\\ListingStatus.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Enums\\ListingStatus.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Enums\\ListingStatus.cs",
+              "RelativeToolTip": "ENTITIES\\Enums\\ListingStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:47:34.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Listing.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\Listing.cs",
+              "RelativeDocumentMoniker": "ENTITIES\\Models\\Listing.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\ENTITIES\\Models\\Listing.cs",
+              "RelativeToolTip": "ENTITIES\\Models\\Listing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:42:50.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OfferManager.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\OfferManager.cs",
+              "RelativeDocumentMoniker": "BLL\\ManagerServices\\Concretes\\OfferManager.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\OfferManager.cs",
+              "RelativeToolTip": "BLL\\ManagerServices\\Concretes\\OfferManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:23:35.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\UserConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\Configs\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\UserConfig.cs",
+              "RelativeToolTip": "DAL\\Configs\\UserConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:49:03.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserProfileConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\UserProfileConfig.cs",
+              "RelativeDocumentMoniker": "DAL\\Configs\\UserProfileConfig.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\DAL\\Configs\\UserProfileConfig.cs",
+              "RelativeToolTip": "DAL\\Configs\\UserProfileConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T20:49:05.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CreateBookRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Models\\Books\\RequestModels\\CreateBookRequestModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Books\\RequestModels\\CreateBookRequestModel.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Models\\Books\\RequestModels\\CreateBookRequestModel.cs",
+              "RelativeToolTip": "API\\Models\\Books\\RequestModels\\CreateBookRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T17:18:36.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ListingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\ListingManager.cs",
+              "RelativeDocumentMoniker": "BLL\\ManagerServices\\Concretes\\ListingManager.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\BLL\\ManagerServices\\Concretes\\ListingManager.cs",
+              "RelativeToolTip": "BLL\\ManagerServices\\Concretes\\ListingManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:42:25.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ListingResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Models\\Listings\\ResponseModels\\ListingResponseModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Listings\\ResponseModels\\ListingResponseModel.cs",
+              "ToolTip": "C:\\Users\\Main\\Desktop\\zbKitapDegisim\\API\\Models\\Listings\\ResponseModels\\ListingResponseModel.cs",
+              "RelativeToolTip": "API\\Models\\Listings\\ResponseModels\\ListingResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:44:45.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

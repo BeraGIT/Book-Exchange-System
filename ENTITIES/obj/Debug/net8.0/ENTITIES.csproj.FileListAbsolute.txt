@@ -1,0 +1,74 @@
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.deps.json
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.dll
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.pdb
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.AssemblyReference.cache
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfoInputs.cache
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfo.cs
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.CoreCompileInputs.cache
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.dll
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\refint\ENTITIES.dll
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.pdb
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ref\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\refint\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ref\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.sourcelink.json
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\refint\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ref\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.sourcelink.json
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\refint\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ref\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\refint\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ref\ENTITIES.dll
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.deps.json
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.AssemblyReference.cache
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfoInputs.cache
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.AssemblyInfo.cs
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.dll
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\refint\ENTITIES.dll
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ENTITIES.pdb
+C:\Users\Main\Desktop\zbKitapDegisim\ENTITIES\obj\Debug\net8.0\ref\ENTITIES.dll

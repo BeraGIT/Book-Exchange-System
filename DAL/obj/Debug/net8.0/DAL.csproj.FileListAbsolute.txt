@@ -1,0 +1,95 @@
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.deps.json
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.dll
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.pdb
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.dll
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.pdb
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.dll
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\refint\DAL.dll
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.pdb
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+c:\Users\ensar\OneDrive\Masaüstü\Kitap Takas Uygulaması\zbKitapDegisim\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\ensar\OneDrive\Masaüstü\zbKitapDegisim\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\Yeni klasör (2)\zbKitapDegisim\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.sourcelink.json
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\ensar\OneDrive\Masaüstü\ZBKitapDeğişimAPP\zbKitapDegisim\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\ensar\OneDrive\Masaüstü\SON\zbKitapDegisim 4\zbKitapDegisim\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.runtimeconfig.json
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.dll
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\bin\Debug\net8.0\ENTITIES.pdb
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\DAL.genruntimeconfig.cache
+C:\Users\Main\Desktop\zbKitapDegisim\DAL\obj\Debug\net8.0\ref\DAL.dll

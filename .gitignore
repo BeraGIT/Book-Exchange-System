@@ -1,0 +1,34 @@
+# Visual Studio
+.vs/
+.vscode/
+.vscode/**/*
+*.sln
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.csproj.user
+*.[Cc]ache
+*.mdb
+*.opendb
+*.pdb
+*.jfm
+
+# Build Folders
+bin/
+obj/
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# User-specific files
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+node_modules/
